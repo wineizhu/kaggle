@@ -1,0 +1,11 @@
+torch>=1.12
+torchvision
+numpy
+opencv-python
+albumentations
+scipy
+pandas
+numba
+pyyaml
+tqdm
+timm
